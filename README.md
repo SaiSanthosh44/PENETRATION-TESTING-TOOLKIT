@@ -34,4 +34,12 @@ The toolkit.py script acts as the central controller for your Penetration Testin
 🔹 Checks common login, setup, and vulnerability paths.
 🔹 Requires target DVWA URL.
 
-##output: 
+##output:
+![Image](https://github.com/user-attachments/assets/9fbd6714-a931-44e0-a19d-be97a7b3baf5)
+![Image](https://github.com/user-attachments/assets/5f42b72d-5848-4eff-80c8-ce8b01c34f85)
+![Image](https://github.com/user-attachments/assets/a76364c1-eb61-448f-8361-bb4e81dab8c2)
+![Image](https://github.com/user-attachments/assets/714753bc-87dd-4913-87bd-370cce360b5f)
+![Image](https://github.com/user-attachments/assets/4466880f-01bb-4187-8742-050a3f788dff)
+![Image](https://github.com/user-attachments/assets/3591fc5b-f0c6-448f-a27c-696067ee7f47)
+![Image](https://github.com/user-attachments/assets/5dc85a64-a449-4dae-b39d-b4872c047b56)
+![Image](https://github.com/user-attachments/assets/926d5b47-e862-4f69-8173-fb9819899b39)
