@@ -1,17 +1,24 @@
 # PENETRATION-TESTING-TOOLKIT
 
-COMPANY: CODTECH JIT SOLUTIONS
+*COMPANY*: CODTECH JIT SOLUTIONS 
 
-NAME: GELLA SAI SANTHOSH
+*NAME*: GELLA SAI SANTHOSH
 
-INTERN ID: CT08DA352
+*INTERN ID*: CT08DA352
 
-DOMAIN: Cyber Security & Ethical Hacking
+*DOMAIN*: Cyber Security & Ethical Hacking 
 
-DURATION: 8 WEEEKS
+*DURATION*: 8 WEEEKS 
 
-MENTOR: NEELA SANTOSH
+*MENTOR*: NEELA SANTOSH
 
-##Description: The File Integrity Checker is a lightweight tool designed to monitor files for changes, By calculating and comparing secure hash values, this tool helps detect unauthorized modifications of your files. It is a Python-based tool, By using the reliable SHA-256 hashing method. This project allows users to generate hash values for specific files, save them in dedicated file and shows in terminal. Built in Error handling, it provides clear messages for issues like missing files, permission errors, ensuring smooth functionality. users can quickly set up and run the tool by adding their desired file paths to the monitoring list and executing the script. The project is built using Python’s built-in libraries, Integrates with Visual Studio Code for an efficient coding experience.
+##Description: This project provides a Penetration Testing Toolkit designed for security professionals, ethical hackers, and cybersecurity learners. It contains essential modules for testing web application vulnerabilities, automating brute-force attacks, generating payloads, and scanning for open endpoints in DVWA (Damn Vulnerable Web Application). By using this toolkit, users can identify weaknesses in web applications and develop better security measures.Brute-Force Password Tester – Automates login brute-force attacks.Payload Generator – Creates SQL Injection, XSS, and Command Injection payloads.Port Scanner – Scans DVWA for accessible pages using multithreading.
+Tools & Technologies Used
+Python 3.x – Core scripting language.
+Requests Library – Web request handling for brute-force and scanning.
+Visual Studio Code – Development environment for writing scripts.
+XAMPP – Local server environment to run DVWA.
+DVWA – Target web application for ethical hacking experiments.
 
-##output:
+
+##output: 
